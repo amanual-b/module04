@@ -1,4 +1,5 @@
-﻿//Console.WriteLine("Hello, Sq8!");
+﻿//Day 53 Exercise
+//Console.WriteLine("Hello, Sq8!");
 
 //int x =10;
 //decimal y = 20.5m;
