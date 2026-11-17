@@ -1,0 +1,14 @@
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\bin\Debug\net10.0\AddisEatsTopUp.exe
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\bin\Debug\net10.0\AddisEatsTopUp.deps.json
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\bin\Debug\net10.0\AddisEatsTopUp.runtimeconfig.json
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\bin\Debug\net10.0\AddisEatsTopUp.dll
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\bin\Debug\net10.0\AddisEatsTopUp.pdb
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\obj\Debug\net10.0\AddisEatsTopUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\obj\Debug\net10.0\AddisEatsTopUp.AssemblyInfoInputs.cache
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\obj\Debug\net10.0\AddisEatsTopUp.AssemblyInfo.cs
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\obj\Debug\net10.0\AddisEatsTopUp.csproj.CoreCompileInputs.cache
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\obj\Debug\net10.0\AddisEatsTopUp.dll
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\obj\Debug\net10.0\refint\AddisEatsTopUp.dll
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\obj\Debug\net10.0\AddisEatsTopUp.pdb
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\obj\Debug\net10.0\AddisEatsTopUp.genruntimeconfig.cache
+C:\Users\andualm\Desktop\cs\AddisEatsTopUp\obj\Debug\net10.0\ref\AddisEatsTopUp.dll
