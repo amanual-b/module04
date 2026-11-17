@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zl3fGzDrDDc=",
+  "dgSpecHash": "w1GKLhbgrpw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andualm\\Desktop\\cs\\AddisEats.Api\\AddisEats.Api.csproj",
+  "projectFilePath": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\day54\\mini-project\\addiseats.api\\AddisEats.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andualm\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
     "C:\\Users\\andualm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
