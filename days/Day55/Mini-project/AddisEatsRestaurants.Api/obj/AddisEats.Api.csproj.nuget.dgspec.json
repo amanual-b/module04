@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andualm\\Desktop\\cs\\AddisEatsRestaurants.Api\\AddisEats.Api.csproj": {}
+    "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\day55\\mini-project\\addiseatsrestaurants.api\\AddisEats.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andualm\\Desktop\\cs\\AddisEatsRestaurants.Api\\AddisEats.Api.csproj": {
+    "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\day55\\mini-project\\addiseatsrestaurants.api\\AddisEats.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andualm\\Desktop\\cs\\AddisEatsRestaurants.Api\\AddisEats.Api.csproj",
+        "projectUniqueName": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\day55\\mini-project\\addiseatsrestaurants.api\\AddisEats.Api.csproj",
         "projectName": "AddisEats.Api",
-        "projectPath": "C:\\Users\\andualm\\Desktop\\cs\\AddisEatsRestaurants.Api\\AddisEats.Api.csproj",
+        "projectPath": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\day55\\mini-project\\addiseatsrestaurants.api\\AddisEats.Api.csproj",
         "packagesPath": "C:\\Users\\andualm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andualm\\Desktop\\cs\\AddisEatsRestaurants.Api\\obj\\",
+        "outputPath": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\day55\\mini-project\\addiseatsrestaurants.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

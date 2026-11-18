@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\OrderService\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\OrderService\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\CreateOrderDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\CreateOrderDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\OrderService\\IOrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\OrderService\\IOrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\RestaurantServices\\RestaurantServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\RestaurantServices\\RestaurantServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\RestaurantServices\\IRestaurantService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\RestaurantServices\\IRestaurantService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\PaginatedResultDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\PaginatedResultDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\RestaurantQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\RestaurantQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\RestaurantsDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\RestaurantsDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateOrderDTO.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\CreateOrderDTO.cs",
+              "RelativeToolTip": "DTOs\\CreateOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T16:46:05.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService\\OrderService.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T16:51:04.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T17:14:04.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T16:40:45.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\OrderService\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\OrderService\\IOrderService.cs",
+              "RelativeToolTip": "Services\\OrderService\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T16:50:46.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T17:16:11.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantServices.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\RestaurantServices\\RestaurantServices.cs",
+              "RelativeDocumentMoniker": "Services\\RestaurantServices\\RestaurantServices.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\RestaurantServices\\RestaurantServices.cs",
+              "RelativeToolTip": "Services\\RestaurantServices\\RestaurantServices.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T13:34:27.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\RestaurantServices\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "Services\\RestaurantServices\\IRestaurantService.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\Services\\RestaurantServices\\IRestaurantService.cs",
+              "RelativeToolTip": "Services\\RestaurantServices\\IRestaurantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T14:50:27.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginatedResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\PaginatedResultDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PaginatedResultDTO.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\PaginatedResultDTO.cs",
+              "RelativeToolTip": "DTOs\\PaginatedResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T16:05:18.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestaurantQuery.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\RestaurantQuery.cs",
+              "RelativeDocumentMoniker": "DTOs\\RestaurantQuery.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\RestaurantQuery.cs",
+              "RelativeToolTip": "DTOs\\RestaurantQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T15:21:06.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RestaurantsDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\RestaurantsDTOs.cs",
+              "RelativeDocumentMoniker": "DTOs\\RestaurantsDTOs.cs",
+              "ToolTip": "C:\\Users\\andualm\\Desktop\\cs\\module04\\days\\Day56\\Exercise\\AddisEatsRestaurants.Api\\DTOs\\RestaurantsDTOs.cs",
+              "RelativeToolTip": "DTOs\\RestaurantsDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T15:36:58.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
